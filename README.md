@@ -4,7 +4,7 @@ use laravel/ui bootstrap for Authentication
 - button top right for logout ( display account name )
 - register not finish
 - back-end user finished
-- create, show, edit, delete Products finished
+- create, show, edit, delete Products finished ( none relationship table )
 - back-end products finished 
 
 

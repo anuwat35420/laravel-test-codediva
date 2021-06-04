@@ -1,3 +1,13 @@
+## Goal list
+use laravel/ui bootstrap for Authentication 
+- login finished
+- button top right for logout ( display account name )
+- register not finish
+- back-end user finished
+- create, show, edit, delete Products finished
+- back-end products finished 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
